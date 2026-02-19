@@ -1,1 +1,3 @@
-ded
+function saludo(){
+    alert ("Hola");
+}
